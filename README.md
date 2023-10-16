@@ -47,6 +47,8 @@ The chosen CatBoostClassifier model is saved to a file, ensuring it can be readi
 
 6- Full_grid_result.pkl: This is the result of the grid search saved in a dictionary.
 
+7- IT_customer_churn.csv: The dataset used in this project.
+
 
 
 ## To see this web application in action, please visit below web page:
